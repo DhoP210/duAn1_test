@@ -17,6 +17,7 @@ public class DuAn1 {
         // TODO code application logic here
         System.out.println("acb");
         System.out.println("Thành Đẹp Trai");
+        System.out.println("cde");
     }
     
 }
