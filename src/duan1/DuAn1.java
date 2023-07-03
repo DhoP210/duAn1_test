@@ -18,6 +18,7 @@ public class DuAn1 {
         System.out.println("acb");
         System.out.println("Thành Đẹp Trai");
         System.out.println("cde");
+        System.out.println("hop");
     }
     
 }
