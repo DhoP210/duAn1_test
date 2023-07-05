@@ -20,6 +20,7 @@ public class DuAn1 {
         System.out.println("cde");
         System.out.println("hop");
         System.out.println("hamoi");
+        System.out.println("let's check");
     }
     
 }
